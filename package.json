@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^4.1.2",
+    "socket.io": "^4.5.3",
     "static-server": "^2.2.1",
     "tail": "^2.2.3",
     "xmldom": "^0.6.0"
